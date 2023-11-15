@@ -1,0 +1,5 @@
+[versions]
+kmm-art = "0.0.1-local"
+
+[libraries]
+kmm-art = { group = "io.ubadah", name = "art", version.ref = "kmm-art" }
